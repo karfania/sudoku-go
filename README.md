@@ -24,7 +24,7 @@
 <h3 align="center">SUDOKU-GO</h3>
 
   <p align="center">
-    A Soduku board generator, verifier, and solver. Leveraging a Go engine for board and Soduku game generation, a Gin API, and a React front-end.
+    A full-stack web application with playable Soduku. Leverages a Sudoku engine written in Go, a Gin API, and a React front-end.
     <br />
     <a href="https://github.com/karfania/sudoku-go"><strong>Explore the docs »</strong></a>
     <br />
